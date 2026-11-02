@@ -1,0 +1,26 @@
+{
+  "Linear Regression": {
+    "mae": 0.0733,
+    "mse": 0.009,
+    "rmse": 0.0949,
+    "r2": 0.8007,
+    "training_samples": 1531,
+    "testing_samples": 383
+  },
+  "Decision Tree": {
+    "mae": 0.0564,
+    "mse": 0.0066,
+    "rmse": 0.0811,
+    "r2": 0.8545,
+    "training_samples": 1531,
+    "testing_samples": 383
+  },
+  "Random Forest": {
+    "mae": 0.0563,
+    "mse": 0.0068,
+    "rmse": 0.0823,
+    "r2": 0.8501,
+    "training_samples": 1531,
+    "testing_samples": 383
+  }
+}

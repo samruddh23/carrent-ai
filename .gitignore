@@ -1,0 +1,29 @@
+# Node.js dependencies & builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+frontend/.vite/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+backend/__pycache__/
+backend/*/__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*
+
+# Environment variables
+.env
+.env.local
